@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 mi primer ejercicio
-=======
-mi primer
->>>>>>> 05d053fee1053fdb296309910aa36d12ddbbc528
 mi segundo commit
